@@ -11,9 +11,7 @@
   "dependencies": {
     "gsap": "^3.12.7",
     "lenis": "^1.2.3",
-    "split-type": "^0.3.4"
-  },
-  "devDependencies": {
+    "split-type": "^0.3.4",
     "vite": "^4.5.0"
   },
   "engines": {
