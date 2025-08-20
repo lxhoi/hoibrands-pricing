@@ -6,12 +6,12 @@ const slides = [
   },
   {
     title: "ELITE",
-    image: "/elite.png",
+    image: "/elite-m.png",
     url: "/projects/domed-sanctuary",
   },
   {
     title: "PREMIUM",
-    image: "/premium.png",
+    image: "/premium-m.png",
     url: "/projects/courtyard-retreat",
   },
 ];
